@@ -1,5 +1,5 @@
 {
-  "name": "react-codemirror2",
+  "name": "@eliyaomid/react-codemirror2",
   "version": "8.0.1",
   "description": "a tiny react codemirror component wrapper",
   "main": "index.js",
@@ -52,7 +52,7 @@
   ],
   "peerDependencies": {
     "codemirror": "5.x",
-    "react": ">=15.5 <=18.x"
+    "react": ">=15.5 <=19.x"
   },
   "devDependencies": {
     "@babel/core": "^7.24.4",
